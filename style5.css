@@ -1,0 +1,45 @@
+.h1{
+    display: flex;
+    justify-content: center;
+    width: 289px;
+    height: 54px;
+    margin-left: 575px;
+    margin-top: 313px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100px;
+    color: #4b4b4b;
+}
+
+.h3{
+    display: flex;
+    justify-content: center;
+    width: 178px;
+    height: 41px;
+    margin-left: 571px;
+    margin-top: -30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100px;
+    color: #737373;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 366px;
+    height: 420px;
+    margin-left: 585px;
+    margin-top: -140px;
+    background-color: #faf4ef;
+    border-radius: 0px 0px 0px 50px;
+}
+
+img{
+    width: 329px;
+    height: 329px;
+    margin-left: 6px;
+    margin-top: 165px;
+}
